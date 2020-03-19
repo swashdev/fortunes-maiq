@@ -39,4 +39,4 @@ articles on [M'Aiq the Liar].
 
 M'Aiq the Liar belongs solely to [ZeniMax Media Inc].  Please don't Notch me.
 
-[ZeniMax Media]: https://www.zenimax.com/
+[ZeniMax Media Inc]: https://www.zenimax.com/

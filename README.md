@@ -5,7 +5,7 @@ This repository hosts files for the `fortune` program for Linux and the BSDs
 containing quotes taken from the popular character [M'Aiq the Liar] from
 [the Elder Scrolls games].
 
-[M'Aiq the Liar]: https://uesp.net/wiki/General:M%27Aiq_the_Liar
+[M'Aiq the Liar]: https://uesp.net/wiki/General:M%27aiq_the_Liar
 [the Elder Scrolls games]: https://elderscrolls.com/
 
 Each file contains all of M'Aiq's various quotations from Morrowind, Oblivion,
